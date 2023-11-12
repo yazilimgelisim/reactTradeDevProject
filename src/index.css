@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+html::-webkit-scrollbar{
+    width: 0px;
+}
+.page{
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+    background-color: #efefef;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.row{
+    max-width: 1366px !important;
+}
+.modal{
+    padding: 30px 0px !important;
+}
+.modal-dialog{
+    width: 100% !important;
+    margin: 0px auto !important;
+}

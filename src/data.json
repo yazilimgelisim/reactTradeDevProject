@@ -1,0 +1,26 @@
+[
+    {
+        "id":"db12ef5b-0a04-45ff-b01a-ebc6709322f0",
+        "imageURL":"https://images.migrosone.com/sanalmarket/product/07120219/07120219-68be82-1650x1650.jpg",
+        "name":"Sakız",
+        "price":0.5
+    },
+    {
+        "id":"6b001084-361f-4b05-9117-7b3a15256faf",
+        "imageURL":"https://images.ctfassets.net/3xxmjv2iej73/7xrQ0Jjx4RBJbE4yOTHfjg/68084a90661ebc7eebe81fd5e82021e8/file.png?fm=webp&q=75",
+        "name":"Diş Macunu",
+        "price":50
+    },
+    {
+        "id":"891baaa9-d7c7-4819-98a5-4459fc43f2ca",
+        "imageURL":"https://contents.mediadecathlon.com/p2154064/k$c860fc030024ec576f78dd7e839500b1/sq/8619247.jpg?format=auto&f=800x0",
+        "name":"Futbol Topu",
+        "price":400
+    },
+    {
+        "id":"14c7c16f-5bef-4f09-80b2-7f9437c30228",
+        "imageURL":"https://ae01.alicdn.com/kf/Saf7d6924bc4d427cb19baae7b9e01e0bb.jpg_640x640Q90.jpg_.webp",
+        "name":"Oyuncak Araba",
+        "price":1000
+    }
+]
